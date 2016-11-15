@@ -1,1 +1,2 @@
 To test GIT...to add new file
+Added line at server...to check difference
